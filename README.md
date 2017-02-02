@@ -43,6 +43,8 @@
 
 
 
-
+## Jenkins DSL
+- Documentation: https://jenkinsci.github.io/job-dsl-plugin/#
+- Playground: http://job-dsl.herokuapp.com/
 
 
