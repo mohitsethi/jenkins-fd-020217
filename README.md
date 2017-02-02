@@ -34,3 +34,15 @@
     ```
       sh install_java8.sh
     ```
+
+
+## Capturing Test cases for project.
+
+- Repo: https://github.com/christophd/citrus-samples.git
+
+
+
+
+
+
+
