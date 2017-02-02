@@ -19,3 +19,7 @@
 
 - Fetch initialAdministrator password
     `cat /var/lib/jenkins/secrets/initialAdminPassword`
+
+
+## Building a Sample project
+- Github repo: https://github.com/mohitsethi/maven-sample-app
