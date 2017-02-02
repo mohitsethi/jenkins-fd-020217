@@ -23,3 +23,14 @@
 
 ## Building a Sample project
 - Github repo: https://github.com/mohitsethi/maven-sample-app
+
+- Make sure dependencies such as java8 & maven are available.
+  Install Maven
+    ```
+      apt-get install maven
+    ```
+
+  Install Java8
+    ```
+      sh install_java8.sh
+    ```
